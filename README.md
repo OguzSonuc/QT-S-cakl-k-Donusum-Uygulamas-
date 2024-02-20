@@ -1,2 +1,2 @@
-# QT-S-cakl-k-Donusum-Uygulamas-
+# QT-Sicaklik-Donusum-Uygulamasi
 Qt Pyside 6 SICAKLIK DÖNÜŞÜM uygulaması.
